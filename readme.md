@@ -11,6 +11,7 @@ Após instalar o projeto entre na pasta *server* e digite o comando:
 **OBS: A senha de login de todos os usuários é "123".
 
 ************************** POST /login **************************
+
 request: 
     body: json com todos o email e password do usuário,  
           onde a key é o parâmetro a ser enviado e o valor 
